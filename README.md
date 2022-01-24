@@ -9,5 +9,7 @@ This project demonstrates how to verify block by block using zilliqa golang sdk.
 5. if there is no new ds block, verify tx block directly
 6. goto 2
 
-tx block verification: https://github.com/Zilliqa/gozilliqa-sdk/blob/master/verifier/verifier.go#L116
-ds block verification: https://github.com/Zilliqa/gozilliqa-sdk/blob/master/verifier/verifier.go#L108
+Links
+
+1. tx block verification: https://github.com/Zilliqa/gozilliqa-sdk/blob/master/verifier/verifier.go#L116
+2. ds block verification: https://github.com/Zilliqa/gozilliqa-sdk/blob/master/verifier/verifier.go#L108
